@@ -1,0 +1,21 @@
+{
+ "name": "Vigor Boost",
+ "short_name": "Vigor Boost",
+ "description": "Vigor Boost male vitality gummies.",
+ "start_url": "./index.html",
+ "display": "standalone",
+ "background_color": "#FFF7ED",
+ "theme_color": "#C2410C",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}

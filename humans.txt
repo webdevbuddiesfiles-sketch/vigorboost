@@ -1,0 +1,8 @@
+/* TEAM */
+Site: Vigor Boost
+Contact: support@vigorboost.com
+
+/* SITE */
+Last update: 2026-10-27
+Language: English
+Standards: HTML5, CSS3

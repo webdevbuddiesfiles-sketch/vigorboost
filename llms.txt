@@ -1,0 +1,21 @@
+# Vigor Boost (vigorboost.onrender.com)
+
+> Independent information and ordering website for Vigor Boost, a male vitality dietary supplement in gummy form (60 gummies per bottle) offered to support energy, stamina and everyday vitality.
+
+## Key facts
+- Named ingredients: L-Citrulline, Pine Bark Extract, L-Carnitine, Vitamin B3 (Niacin), Zinc, Mucuna Pruriens Extract, Maca Root Extract, Grape Skin Extract; amounts are on the bottle panel
+- Directions: the suggested daily serving printed on the bottle label
+- Packs (USD): 1 bottle $69; 3 bottles $59 each ($177); 6 bottles $49 each ($294, free US shipping); bonuses with 3 and 6 per the seller
+- 60-day money-back guarantee, subject to the terms shown at checkout
+- Not a treatment for any condition; adult men only; ask a doctor first if taking blood pressure, nitrate, blood-thinning or Parkinson's medicine
+
+## Pages
+- [Home](https://vigorboost.onrender.com/)
+- [About Vigor Boost](https://vigorboost.onrender.com/about-vigor-boost.html)
+- [Benefits](https://vigorboost.onrender.com/vigor-boost-benefits.html)
+- [How It Works](https://vigorboost.onrender.com/how-vigor-boost-works.html)
+- [Ingredients](https://vigorboost.onrender.com/vigor-boost-ingredients.html)
+- [Reviews](https://vigorboost.onrender.com/vigor-boost-reviews.html)
+- [Pricing](https://vigorboost.onrender.com/vigor-boost-pricing.html)
+- [FAQ](https://vigorboost.onrender.com/vigor-boost-faq.html)
+- [Blog](https://vigorboost.onrender.com/blog/index.html)
